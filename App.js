@@ -8,7 +8,7 @@ export default function App() {
       <StatusBar style="auto" />
     </View><View style={styles.container}>
         <Text>
-hi
+YO
         </Text>
         <StatusBar style="auto" />
       </View></>
